@@ -1,2 +1,4 @@
-package com.zaratech.messaging.controllers;public class UserController {
+package com.zaratech.messaging.controllers;
+
+public class UserController {
 }

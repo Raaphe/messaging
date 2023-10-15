@@ -1,2 +1,7 @@
-package com.zaratech.messaging.services.interfaces;public class UserService {
+package com.zaratech.messaging.services;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class UserService {
 }
